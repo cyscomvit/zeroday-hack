@@ -1,4 +1,13 @@
 import { Button } from "./button";
+import {
+    Alert,
+    AlertDescription, 
+    AlertTitle
+} from "./alert"
+
 export {
-    Button
+    Button,
+    Alert,
+    AlertDescription, 
+    AlertTitle
 }
